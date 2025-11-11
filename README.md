@@ -46,7 +46,7 @@ In summary, the "Nigeria Democracy" StoryMap offered compelling visual evidence 
 
 ### 🗺️ View the StoryMap
 
-[Click here to explore the full StoryMap for the GAC24 project!](https://storymaps.arcgis.com/stories/your-story-id)
+[Click here to explore the full StoryMap for the GAC24 project!](https://storymaps.arcgis.com/stories/d248b3d798bb4da7aabfd84203edb504)
 
 ---
 
