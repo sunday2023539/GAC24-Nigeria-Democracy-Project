@@ -43,3 +43,11 @@ Development and Participation Linkages: A strong, inverse spatial correlation wa
 Vulnerability Mapping: By mapping instances of security incidents and political violence, the project successfully created a visualization of geographical vulnerability. The results indicated that the spatial occurrence of these events often clusters around contested borders, major transportation corridors, or areas with pre-existing communal conflicts, providing a crucial layer of context for election monitoring and security planning. 
 
 In summary, the "Nigeria Democracy" StoryMap offered compelling visual evidence that the future stability of Nigeria's democracy is fundamentally tied to the government's ability to address deep-seated regional disparities and bridge the geographic gap between political participation and socio-economic development. 
+
+### 🗺️ View the StoryMap
+
+[Click here to explore the full StoryMap for the GAC24 project!](https://storymaps.arcgis.com/stories/your-story-id)
+
+---
+
+
