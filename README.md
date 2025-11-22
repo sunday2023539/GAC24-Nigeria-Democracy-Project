@@ -4,17 +4,17 @@
 ----
 **GAC24: Final Project: Nigeria Democracy** 
 
-1. Introduction 
+1. **Introduction**
 
 This final project, structured as an ArcGIS StoryMap, sought to provide a comprehensive, geographically informed analysis of the state of democracy in Nigeria. Utilizing Geographic Information Systems (GIS), the study aimed to move beyond purely statistical reporting to visualize and interpret the spatial dimensions of Nigeria’s democratic experience. The core challenge addressed was the persistent complexity, regional polarization, and vulnerability of the democratic process, particularly in relation to deep-seated socio-economic and ethnic divides. The StoryMap functions as a dynamic tool for stakeholders, policymakers, and citizens to visualize how electoral behavior, political stability, and development indicators intersect across Nigeria’s diverse geographical landscape. 
 
  
 
-2. Methods 
+2. **Methods**
 
 The methodology was centered on the principles of geospatial data analysis and visualization using the ArcGIS platform. 
 
-Data Acquisition 
+**Data Acquisition** 
 
 The project relied on integrating multiple publicly sourced datasets, which were then prepared for spatial analysis. Key data layers likely included: 
 
