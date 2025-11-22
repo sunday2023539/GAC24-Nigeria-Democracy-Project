@@ -1,4 +1,8 @@
-GAC24: Final Project: Nigeria Democracy  
+[![View Story Map](https://img.shields.io/badge/View%20Interactive%20Story%20Map-blue?style=for-the-badge)](https://storymaps.arcgis.com/stories/d248b3d798bb4da7aabfd84203edb504)
+
+----
+----
+**GAC24: Final Project: Nigeria Democracy** 
 
 1. Introduction 
 
